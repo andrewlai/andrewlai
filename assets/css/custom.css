@@ -1,0 +1,15 @@
+/* Raise the profile photo on the About page */
+.about .profile {            /* container holding the image on the right */
+  margin-top: -16px;         /* tweak: try -8 to -28px */
+}
+
+/* (optional) control its width so the text wraps nicely */
+.about .profile img {
+  max-width: 320px;          /* adjust or remove if you like the current size */
+  height: auto;
+}
+
+/* (optional) only on wider screens */
+@media (min-width: 992px) {
+  .about .profile { margin-top: -20px; }
+}
