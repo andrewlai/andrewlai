@@ -11,15 +11,15 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg          # put this at assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p><i class="fas fa-map-marker-alt"></i> Brisbane, Australia</p>
     <p><i class="fas fa-envelope"></i> <a href="mailto:your.email@uq.edu.au">your.email@uq.edu.au</a></p>
     <p><a href="https://clinical-research.centre.uq.edu.au/profile/716/andrew-lai" target="_blank" rel="noopener">UQCCR profile</a></p>
 
-selected_papers: true          # shows items with selected = {true}
-social: true                   # social icons (configured in _config.yml)
+selected_papers: true
+social: true
 
 announcements:
   enabled: true
@@ -33,9 +33,6 @@ latest_posts:
 ---
 
 I’m a research fellow working on extracellular vesicles (EVs), proteomics, and translational applications in pregnancy and cancer. My work spans EV engineering, DIA/SWATH mass spectrometry, and biomarker discovery.
-
-- **Interests:** extracellular vesicles, ovarian cancer, proteomics, pregnancy complications (GDM, preeclampsia)  
-- **Methods:** LC–MS/MS, bioinformatics, EV isolation/characterization, in-vivo models
 
 <p>
   <a class="btn btn-sm btn-outline-primary" href="/publications/">View all publications</a>
