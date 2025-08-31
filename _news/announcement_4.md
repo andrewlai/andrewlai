@@ -1,6 +1,6 @@
 ---
 title: "New site!"
-date: 2025-08-30
+date: 2025-08-30 00:00:00 +0000
 inline: true
 ---
-:sparkles: :smile: New site!
+✨ 😄 New site!
