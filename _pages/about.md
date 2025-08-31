@@ -10,7 +10,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg          # place at assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p><i class="fas fa-map-marker-alt"></i> Brisbane, Australia</p>
@@ -34,4 +34,4 @@ latest_posts:
 I’m a research fellow working on extracellular vesicles (EVs), proteomics, and translational applications in pregnancy and cancer. My work spans EV engineering, DIA/SWATH mass spectrometry, and biomarker discovery.
 
 - **Interests:** extracellular vesicles, ovarian cancer, proteomics, pregnancy complications (GDM, preeclampsia)
-- **Methods:** LC–MS/MS, bioinformatics, EV isolation/characterization, in-vivo models
+- **Methods:** LC–MS/MS, bioinformatics, EV isolation/characterisation
