@@ -4,8 +4,7 @@ title: about
 permalink: /
 subtitle: >-
   <strong>Research Fellow</strong> ·
-  <a href="https://clinical-research.centre.uq.edu.au/" target="_blank" rel="noopener noreferrer">UQ Centre for Clinical Research (UQCCR)</a>
-  (<a href="https://clinical-research.centre.uq.edu.au/profile/716/andrew-lai" target="_blank" rel="noopener noreferrer">profile</a>)<br>
+  <a href="https://clinical-research.centre.uq.edu.au/" target="_blank" rel="noopener noreferrer">UQ Centre for Clinical Research (UQCCR)</a><br>
   <strong>Affiliate</strong>, <a href="https://clinical-research.centre.uq.edu.au/research/uq-centre-extracellular-vesicle-nanomedicine" target="_blank" rel="noopener noreferrer">UQ Centre for Extracellular Vesicle Nanomedicine</a>
 
 profile:
@@ -33,7 +32,7 @@ latest_posts:
 
 I’m a Research Fellow at the UQ Centre for Clinical Research and an Affiliate of the UQ Centre for Extracellular Vesicle Nanomedicine. My work focuses on extracellular vesicles (EVs) in gynaecological cancers and pregnancy complications (e.g., GDM, preeclampsia). I develop robust EV-isolation workflows and use LC–MS/MS proteomics (DIA/SWATH) with bioinformatics to profile EV cargo, discover biomarkers, and understand mechanisms that drive disease progression and treatment resistance.
 
-A key outcome of my research has been the development of OCRF-7, an early-detection blood test for ovarian cancer that is currently undergoing clinical validation. I collaborate closely with clinicians and industry to translate assays from discovery to verification in patient cohorts, with the goal of delivering practical diagnostics that improve women’s health.
+A key outcome of my research has been contributing to the development of **OCRF-7**, an early-detection blood test for ovarian cancer that is currently undergoing clinical validation. I collaborate closely with clinicians and industry to translate assays from discovery to verification in patient cohorts, with the goal of delivering practical diagnostics that improve women’s health.
 
-- **Interests:** extracellular vesicles, ovarian cancer, proteomics, pregnancy complications (GDM, preeclampsia)
-- **Methods:** LC–MS/MS, bioinformatics, EV isolation/characterisation
+- **Interests:** Extracellular vesicles, Ovarian cancer, Proteomics, Pregnancy complications (GDM, preeclampsia)
+- **Methods:** LC–MS/MS, Bioinformatics, EV isolation/characterisation
