@@ -2,20 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
+subtitle: >-
   <strong>Research Fellow</strong> ·
-  <a href="https://clinical-research.centre.uq.edu.au/" target="_blank" rel="noopener">UQ Centre for Clinical Research (UQCCR)</a>
-  (<a href="https://clinical-research.centre.uq.edu.au/profile/716/andrew-lai" target="_blank" rel="noopener">profile</a>)<br>
-  <strong>Affiliate</strong>, <a href="https://clinical-research.centre.uq.edu.au/research/uq-centre-extracellular-vesicle-nanomedicine" target="_blank" rel="noopener">UQ Centre for Extracellular Vesicle Nanomedicine</a>
+  <a href="https://clinical-research.centre.uq.edu.au/" target="_blank" rel="noopener noreferrer">UQ Centre for Clinical Research (UQCCR)</a>
+  (<a href="https://clinical-research.centre.uq.edu.au/profile/716/andrew-lai" target="_blank" rel="noopener noreferrer">profile</a>)<br>
+  <strong>Affiliate</strong>, <a href="https://clinical-research.centre.uq.edu.au/research/uq-centre-extracellular-vesicle-nanomedicine" target="_blank" rel="noopener noreferrer">UQ Centre for Extracellular Vesicle Nanomedicine</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
+  more_info: >-
     <p><i class="fas fa-map-marker-alt"></i> Brisbane, Australia</p>
     <p><i class="fas fa-envelope"></i> <a href="mailto:a.lai@uq.edu.au">a.lai@uq.edu.au</a></p>
-    <p><a href="https://clinical-research.centre.uq.edu.au/profile/716/andrew-lai" target="_blank" rel="noopener">UQCCR profile</a></p>
+    <p><a href="https://clinical-research.centre.uq.edu.au/profile/716/andrew-lai" target="_blank" rel="noopener noreferrer">UQCCR profile</a></p>
 
 selected_papers: true
 social: true
@@ -26,12 +26,14 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: False
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
-I’m a research fellow working on extracellular vesicles (EVs), proteomics, and translational applications in pregnancy and cancer. My work spans EV engineering, DIA/SWATH mass spectrometry, and biomarker discovery.
+I’m a Research Fellow at the UQ Centre for Clinical Research and an Affiliate of the UQ Centre for Extracellular Vesicle Nanomedicine. My work focuses on extracellular vesicles (EVs) in gynaecological cancers and pregnancy complications (e.g., GDM, preeclampsia). I develop robust EV-isolation workflows and use LC–MS/MS proteomics (DIA/SWATH) with bioinformatics to profile EV cargo, discover biomarkers, and understand mechanisms that drive disease progression and treatment resistance.
+
+A key outcome of my research has been the development of OCRF-7, an early-detection blood test for ovarian cancer that is currently undergoing clinical validation. I collaborate closely with clinicians and industry to translate assays from discovery to verification in patient cohorts, with the goal of delivering practical diagnostics that improve women’s health.
 
 - **Interests:** extracellular vesicles, ovarian cancer, proteomics, pregnancy complications (GDM, preeclampsia)
 - **Methods:** LC–MS/MS, bioinformatics, EV isolation/characterisation
